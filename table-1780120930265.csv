@@ -1,0 +1,11 @@
+﻿Attribute,Koteswara (Retail),Indrajit (Equipment),Samrudhi (Startup Ops),Andrea (Medical)
+**Age/Gen**,~36 / Millennial,~37 / Millennial,~23 / Gen Z,~42 / Gen X
+**Location**,"Guntur, India (Tier-2 city)","Chennai, India (Metro)","Bengaluru, India (Tech hub)","Ottawa, Canada (Capital)"
+**Company Size**,Micro (self + 1-2),"Enterprise (L\&T, 50K+ employees)","Startup (upliance.ai, likely 20-50)","Institution (Carleton University, public sector)"
+**Decision Speed**,Fast (sole decision maker),Slow (enterprise procurement),"Medium (startup, founder-driven)","Very Slow (public sector, committee)"
+**Price Sensitivity**,Very High,Low (enterprise budget),Low (funded startup),Medium (public budget constraints)
+**Key Pain**,Multi-category chaos,Asset visibility across sites,Rapid scaling breaking systems,Compliance + audit readiness
+**Tech Comfort**,Moderate (corporate background),High (MIS coordinator),"Very High (Gen Z, startup)",Moderate (adaptive learner)
+**Primary Use Case**,Sales + service inventory,Heavy equipment tracking,Demo/review unit tracking,Vaccine + medical supply tracking
+**Integration Need**,Google Sheets (familiar),ERP/SAP (enterprise),Slack/Notion (startup stack),Google Workspace (university)
+**Buying Role**,Economic + User Buyer,Influencer/Champion,Economic + User Buyer,Champion/User (not economic)
